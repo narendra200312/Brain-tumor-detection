@@ -52,3 +52,6 @@ if uploaded_file is not None:
             st.success("Tumor detected!")
         else:
             st.error("No tumor detected!")
+            
+st.sidebar.markdown("---")
+st.sidebar.write("Created with 🤖 by Narendra, Jayesh & Nikitha")
