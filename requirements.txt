@@ -1,8 +1,6 @@
-streamlit
-ultralytics
-torch
-opencv-python-headless
-Pillow
-numpy
-matplotlib
-pytorch-grad-cam==1.3.9
+streamlit==1.32.2
+torch==2.2.1
+pillow==10.2.0
+numpy==1.26.4
+opencv-python==4.9.0.80
+ultralytics==8.1.24
