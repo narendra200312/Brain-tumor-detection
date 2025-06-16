@@ -5,4 +5,4 @@ opencv-python-headless
 Pillow
 numpy
 matplotlib
-pytorch-grad-cam
+pytorch-grad-cam==1.3.9
